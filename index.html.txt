@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Online Resume</title>
+</head>
+<body>
+		<h1 style="text-align: center">Duran, John Kenneth M.</h1>
+		<h3>PROFILE</h1>
+	<ul>
+		<li>An undergrad student, willing to do anything to pass and graduate. Passionate about everything i've learnt, taking care of my mental health because it is the most important thing to me right now. Degree in progress at University of the Cordilleras.</li>
+	</ul>
+		<h3>WORK EXPERIENCE</h1>
+		<p>Hardware</p>
+	<ul>
+		<li>Restocker of tools and items</li>
+		<li>Delivering construction Materials</li>
+		<li>Cashier</li>
+	</ul>
+		<p>Restaurant</p>
+	<ul>
+		<li>Assistant Cook</li>
+		<li>Preparing food for the customer</li>
+		<li>Waiter</li>
+	</ul>
+		<p>Customer Service</p>
+	<ul>
+		<li>Assisting customers to find items they want</li>
+		<li>Restocking supplies</li>
+		<li>Providing personal assistance</li>
+	</ul>
+		<h3>EDUCATION</h1>
+	<ul>
+		<li>Bachelor of Science in Information Technology, major in Web Technology</li>
+	</ul>
+		<h3>BASIC HOBBIES</h1>
+	<ul>
+		<li>Singing</li>
+		<li>Cooking</li>
+		<li>Gaming</li>
+		<li>Sleeping</li>
+		<li>Eating</li>
+	</ul>
+		<h3>SKILLS</h1>
+	<ul>
+		<li>Fast Learner</li>
+		<li>Agile</li>
+		<li>Programming</li>
+	</ul>
+		<h3>PERSONAL INFORMATION</h1>
+		<p>ADDRESS: Sto. Nino Slaughter House, Baguio City</p>
+		<p>PHONE: (09158227089)</p>
+		<p>EMAIL: jkenduran21@gmail.com</p>
+		<p>COUNTRY: Philippines</p>
+		<p>NATIONALITY: Filipino</p>
+		<h1>LINKS</h1>
+		<a href="https://www.facebook.com/seiketsuu">Facebook</a>
+		<h1> </h1>
+		<a href="https://www.instagram.com/kenchln_/">Instagram</a>
+</body>
+</html>
